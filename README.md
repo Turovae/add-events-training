@@ -1,4 +1,6 @@
-Интересует только метод _clear
+Интересует только метод _clear в компоненте:
+
+[contact-list.js](/src/components/contact-list/contact-list.js)
 
 ```js
   _clear() {
