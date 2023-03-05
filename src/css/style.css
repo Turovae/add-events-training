@@ -1,0 +1,28 @@
+body {
+  color: #333;
+}
+
+.filter-btn {
+  cursor: pointer;
+}
+
+.filter-btn:hover {
+  background-color: #ece2e2;
+}
+
+.filter-btn:active {
+  box-shadow: 1px 1px 5px inset #ced4da;
+}
+
+.input,
+.filter-btn {
+  display: inline-block;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border: 1px solid #ced4da;
+}
+
+.hidden {
+  display: none;
+}
